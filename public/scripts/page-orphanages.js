@@ -22,7 +22,7 @@ const popup = L.popup({
     minWidth: 240,
     minHeight: 240
 }).setContent(
-    'Lar das Meninas <a href="orphanage.html?id=1" class="choose-orphanage"> <img src="./public/images/arrow-white.svg"> </a>'
+    'Lar da Felicidade <a href="orphanage.html?id=1" class="choose-orphanage"> <img src="./public/images/arrow-white.svg"> </a>'
 );
 
 // Create icon
